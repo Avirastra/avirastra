@@ -1,16 +1,56 @@
-## Hi there 👋
+# Avirastra 🚀
 
-<!--
-**Avirastra/avirastra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Innovating with Software, Backend Systems & Smart Technology**
 
-Here are some ideas to get you started:
+Avirastra is a technology-driven company focused on building scalable,
+reliable, and modern digital solutions for businesses and startups.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔹 What We Do
+
+- 💻 Software & Web Application Development  
+- ⚙️ Backend Development (Python, Django, REST APIs)  
+- 🔌 IoT & Smart System Solutions  
+- 📱 QR Code & Digital Menu Systems  
+- 🎓 Internship & Training Programs  
+
+---
+
+## 🛠️ Technologies We Work With
+
+- Python  
+- Django & Django REST Framework  
+- RESTful APIs  
+- MySQL / PostgreSQL  
+- Git & GitHub  
+- HTML, CSS, JavaScript  
+
+---
+
+## 📂 Projects
+
+- QR Code Based Restaurant Menu System  
+- Table-wise Ordering & Management System  
+- Backend APIs for Real-World Applications  
+- Admin Dashboards & Internal Tools  
+
+---
+
+## 🎯 Our Mission
+
+To deliver efficient, future-ready technology solutions while
+empowering fresh talent through real-world project experience.
+
+---
+
+## 🌍 Get in Touch
+
+- 🌐 Website: https://avirastra.com  
+- 📧 Email: contact@avirastra.com  
+- 💼 LinkedIn: https://www.linkedin.com/company/avirastra  
+
+---
+
+⭐ Follow us on GitHub to see our work and upcoming projects.
+
